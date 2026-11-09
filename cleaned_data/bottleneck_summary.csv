@@ -1,0 +1,5 @@
+,CPU usage,RAM in use,SSD active time,GPU usage
+CPU test,99.7,,,
+Storage test,,65.3,99.8,
+GPU test,,,,99.5
+Mixed workload,71.7,77.4,85.9,5.1
